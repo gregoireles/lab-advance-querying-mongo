@@ -91,3 +91,6 @@ You already know how this goes, so let's start working:
 
 
 Happy Coding! :heart:
+
+
+{"acquisition.price_amount": -1}{name: 1, acquisition: 1}
